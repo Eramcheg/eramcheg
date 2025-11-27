@@ -9,7 +9,7 @@ I'm a software developer with a focus on building web applications. I enjoy work
 
 ## Skills & Technologies
 
-html,css,django,nodejs,react,git,github,postgres,flutter,py,spring,firebase,mysql,fastapi,dart,docker
+[![My Skills](https://skillicons.dev/icons?i=html,css,django,nodejs,react,git,github,postgres,flutter,py,spring,firebase,mysql,fastapi,dart,docker&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
@@ -20,8 +20,10 @@ html,css,django,nodejs,react,git,github,postgres,flutter,py,spring,firebase,mysq
 
 ![Eramcheg GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eramcheg&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eramcheg&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Things I like
 
 >🎸Playing guitar \
+
 >🎵 Listening to music 
