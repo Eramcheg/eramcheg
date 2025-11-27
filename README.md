@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**Eramcheg/eramcheg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Illia**, a Python/Django Backend Developer with 3+ years of experience building web applications, backend systems, APIs, and data-driven platforms. I enjoy solving complex problems, designing clean architectures, and delivering reliable solutions that work at scale.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer with a focus on building web applications. I enjoy working on projects that challenge my skills and allow me to grow. I have experience working on commercial projects for clients in Austria and the EU, as well as educational platforms and social-impact projects for Ukrainian students.
+
+
+## Skills & Technologies
+
+html,css,django,nodejs,react,git,github,postgres,flutter,py,spring,firebase,mysql,fastapi,dart,docker
+
+## Top Projects
+
+- [**WishListApp**](https://github.com/Eramcheg/WishListApp): A birthday wishlist application to manage and share wish lists. ⭐ 0 stars | Language: Python
+- [**UaInternetOlimp**](https://github.com/Eramcheg/UaInternetOlimp): A project focusing on internet technologies and their implementation. ⭐ 0 stars | Language: CSS
+
+## GitHub Stats
+
+![Eramcheg GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=eramcheg&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+
+## Things I like
+
+>🎸Playing guitar \
+>🎵 Listening to music 
