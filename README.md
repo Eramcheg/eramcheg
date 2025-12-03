@@ -9,12 +9,12 @@ I'm a software developer with a focus on building web applications. I enjoy work
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,nodejs,react,git,github,postgres,flutter,py,spring,firebase,mysql,fastapi,dart,docker&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,django,nodejs,git,github,postgres,flutter,py,spring,firebase,mysql,fastapi,dart,docker&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
 - [**WishListApp**](https://github.com/Eramcheg/WishListApp): A birthday wishlist application to manage and share wish lists. ⭐ 0 stars | Language: Python
-- [**UaInternetOlimp**](https://github.com/Eramcheg/UaInternetOlimp): A project focusing on internet technologies and their implementation. ⭐ 0 stars | Language: CSS
+- [**UaInternetOlimp**](https://github.com/Eramcheg/UaInternetOlimp): A project focusing on internet technologies and their implementation. ⭐ 0 stars | Language: Python
 
 ## GitHub Stats
 
@@ -24,6 +24,6 @@ I'm a software developer with a focus on building web applications. I enjoy work
 
 ## Things I like
 
->🎸Playing guitar \
+>🎸Playing guitar 
 
 >🎵 Listening to music 
