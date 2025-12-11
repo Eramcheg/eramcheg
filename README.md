@@ -9,7 +9,7 @@ I'm a software developer with a focus on building web applications. I enjoy work
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,django,nodejs,git,github,postgres,flutter,py,spring,firebase,mysql,fastapi,dart,docker&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,py,nodejs,java,spring,git,github,dotnet,html,css,flutter,dart,postgres,firebase,mysql,fastapi,docker&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
